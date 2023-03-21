@@ -1,1 +1,1 @@
-from DS102Controller.DS102Controller import DS102Controller
+from DS102Controller.DS102Controller import MySerial, DS102Controller
